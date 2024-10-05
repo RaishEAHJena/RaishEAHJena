@@ -1,3 +1,4 @@
+![logo](https://github.com/RaishEAHJena/RaishEAHJena/blob/main/Artificial-Intelligence-and-Machine-Learning.png)
 <h1 align="center">Hi 👋, I'm Raish Uddin Ahmed</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Engineer from Germany</h3>
 
